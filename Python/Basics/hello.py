@@ -67,3 +67,4 @@ number = round(number)
 
 #using thsi format of {number:,} we can add comma or period in currency output as country system.
 print(f"{number:,}")
+
