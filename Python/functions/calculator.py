@@ -1,4 +1,4 @@
-# defining a function for a simple calculation which will return a value of the result of addition
+# defining a function for a simple calculation which will return a value of the result of the addition
 def calculator(num1, num2):
     return num1 + num2
 
