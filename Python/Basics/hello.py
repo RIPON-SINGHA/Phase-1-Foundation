@@ -68,3 +68,12 @@ number = round(number)
 #using thsi format of {number:,} we can add comma or period in currency output as country system.
 print(f"{number:,}")
 
+
+
+# these are the some of the operators that is used by python
+# Arithmatic Operator : +, -, *, /, %
+
+# Conditional(Comparison) Operator : <, <=, >, >=, ==, !=
+
+# Logical Operator : and, or, not
+
